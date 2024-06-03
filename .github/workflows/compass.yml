@@ -1,0 +1,22 @@
+name: gh-actions-importer
+id: 'ari:cloud:compass:aa3a5f3e-211c-4e52-9c48-46242465fc2a:component/12a22442-e1b4-45be-8747-59e5551df540/1c3beded-ed3f-4f8c-bd6e-77130aad49ad'
+description: >-
+  GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub
+  Actions.
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/V2535/gh-actions-importer'
+relationships: {}
+labels:
+  - 'source:github'
+  - synced-with-jsm
+customFields: null
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
